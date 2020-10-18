@@ -1,7 +1,9 @@
-# GirlsHooHack2020
+#### GirlsHooHack2020
+
+# And That’s on PERIOD! 
+# - *an interactive educational website that teaches little girls about their bodies*
 
 ## Project Description: 
-*Prize Track: Women Empowerment*
 
 The objective of this project was to gain more experience with front-end development to be able to carry out our dreams of ending the stigma around puberty and periods. We wanted to empower little girls by educating them and providing them with helpful resources that they can use to guide them through this difficult time. 
 We have many different sections, such as a word cloud to demonstrate that everyone has similar questions going into this period of their lives, an interactive diagram of the body with information on how that part changes during puberty, and sections talking about the process leading up to a girl’s first period with sources for further information linked. We also had an idea for a Big Sister/Little Sister program, so we have a section explaining what the program entails and a Google Form to enter contact information for those interested in joining.
