@@ -12,6 +12,15 @@ We plan on building upon this project after the campaign by adding a chat bot so
 
 We used a Bootstrap template and went in and modified all of the different components in order to fit the needs of our project.
 
+
+![image](https://user-images.githubusercontent.com/55526292/96388115-c4c42700-1174-11eb-8f9e-37ffb225512c.png)
+![image](https://user-images.githubusercontent.com/55526292/96388125-d3124300-1174-11eb-91d8-1b168eb12386.png)
+![image](https://user-images.githubusercontent.com/55526292/96388130-e3c2b900-1174-11eb-9898-01f7992bd4da.png)
+![image](https://user-images.githubusercontent.com/55526292/96388137-ec1af400-1174-11eb-80e9-dcea035c93f7.png)
+![image](https://user-images.githubusercontent.com/55526292/96388141-f50bc580-1174-11eb-88db-22731f94d9c6.png)
+![image](https://user-images.githubusercontent.com/55526292/96388146-fdfc9700-1174-11eb-814c-e924be723242.png)
+![image](https://user-images.githubusercontent.com/55526292/96388152-0654d200-1175-11eb-91e3-a57fb4e57ff4.png)
+
 ## Built With: 
 > HTML, JavaScript, CSS, Bootstrap
 
@@ -20,11 +29,10 @@ andthatsonperiod.tech
 
 *(unfortunately, domain.com was not working for us so we could not upload the html files to this domain, please use the source code below to see a demo of our project)*
 
-## Youtube Link:
-https://youtu.be/c0KhV5yyFrg
+## ![YouTube Demo](https://youtu.be/c0KhV5yyFrg)
 
 ## Contributors:
-- Ayushi Ambhore
+- Ayushi Ambhore 
 - Daqi Chen
 - Sahil Patel
 - Wamia Said
