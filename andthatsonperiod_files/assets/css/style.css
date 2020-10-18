@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #5777ba;
+  background:#b39bc8;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #748ec6;
+  background: #F172A1;
   transition: background 0.2s ease-in-out;
 }
 
@@ -127,12 +127,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #5777ba;
+  color: #b39bc8;
   text-decoration: none;
 }
 
 .nav-menu .get-started a {
-  background: #5777ba;
+  background: #b39bc8;
   color: #fff;
   border-radius: 50px;
   margin: 0 15px;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .get-started a:hover {
-  background: #748ec6;
+  background: #b39bc8;
   color: #fff;
 }
 
@@ -178,7 +178,7 @@ hero
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #5777ba;
+  color: #b39bc8;
 }
 
 .nav-menu .drop-down > a:after {
@@ -238,7 +238,7 @@ hero
 }
 
 .mobile-nav-toggle i {
-  color: #5777ba;
+  color: #b39bc8;
 }
 
 .mobile-nav {
@@ -273,7 +273,7 @@ hero
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #5777ba;
+  color: #b39bc8;
   text-decoration: none;
 }
 
@@ -375,7 +375,7 @@ hero
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
-  background: #ab67c5;
+  background: #b39bc8;
   position: relative;
 }
 
@@ -450,7 +450,9 @@ section {
 .section-title h2 {
   font-size: 32px;
   font-weight: 30;
+  padding-top:70px;
   margin-bottom: 20px;
+  font-weight: 500;
   padding-bottom: 0;
   color:  #F172A1;
   font-family: "Poppins", sans-serif;
@@ -458,6 +460,8 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  font-size: 20px;
+  margin-bottom: 20px;
 }
 
 /*--------------------------------------------------------------
@@ -509,87 +513,6 @@ section {
 /*--------------------------------------------------------------
 # Learn About Your Body
 --------------------------------------------------------------*/
-/* #bodyparts .button {
-  font-family: "Raleway", sans-serif;
-  font-weight: 500;
-  font-size: 15px;
-  display: inline-block;
-  padding: 8px 24px 10px 20px;
-  border-radius: 3px;
-  transition: 0.5s;
-  color: #fff;
-  background: #fff;
-  position: relative;
-} */
-
-#brainpic {
-  border: 1px solid #ccc;
-  display: none;
-  font-size: 10px;
-  margin-top: 10px;
-  padding: 5px;
-  text-transform: uppercase;
-}
-
-#brainpic:hover #brain-text {
-  display: block;
-}
-
-#facepic {
-  border: 1px solid #ccc;
-  display: none;
-  font-size: 10px;
-  margin-top: 10px;
-  padding: 5px;
-  text-transform: uppercase;
-}
-
-#facepic:hover #face-text {
-  display: block;
-}
-
-#torsopic {
-  border: 1px solid #ccc;
-  display: none;
-  font-size: 10px;
-  margin-top: 10px;
-  padding: 5px;
-  text-transform: uppercase;
-}
-
-#torsopic:hover #torso-text {
-  display: block;
-}
-
-#uteruspic {
-  border: 1px solid #ccc;
-  display: none;
-  font-size: 10px;
-  margin-top: 10px;
-  padding: 5px;
-  text-transform: uppercase;
-}
-
-#uteruspic:hover #uterus-text {
-  display: block;
-}
-
-#legspic {
-  border: 1px solid #ccc;
-  display: none;
-  font-size: 10px;
-  margin-top: 10px;
-  padding: 5px;
-  text-transform: uppercase;
-}
-
-#legspic:hover #legs-text {
-  display: block;
-}
-
-/* .pic-caption:hover #something {
-  display: block;
-} */
 
 #bodyparts .button:hover {
   background: #b39bc8;
@@ -609,17 +532,6 @@ section {
   margin-top: 25px;
 }
 
-/* .features .content .icon-box h4 {
-  font-size: 20px;
-  font-weight: 700;
-  margin: 5px 0 10px 60px;
-} */
-
-/* .features .content .icon-box i {
-  font-size: 48px;
-  float: left;
-  color: #5777ba;
-} */
 
 #info1 {
   font-size: 30px;
@@ -711,6 +623,9 @@ section {
 .details .content + .content {
   margin-top: 100px;
 }
+/* .details-bg {
+  background-color: rgba(179, 155, 200, 0.514);
+} */
 
 .details .content h3 {
   font-weight: 700;
@@ -763,7 +678,7 @@ section {
 }
 
 .gallery .owl-dot.active {
-  background-color: #5777ba !important;
+  background-color: #b39bc8 !important;
 }
 
 .gallery .gallery-carousel {
@@ -776,7 +691,7 @@ section {
 
 @media (min-width: 992px) {
   .gallery .gallery-carousel .center {
-    border: 6px solid #5777ba;
+    border: 6px solid #b39bc8;
     padding: 4px;
     background: #fff;
     z-index: 1;
@@ -868,41 +783,8 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #5777ba !important;
+  background-color: #b39bc8 !important;
 }
-
-
-/* .pix:nth:child(1){
-  z-index: 3;
-}
-.pic:nth-child(2){
-  z-index: 1;
-}
-.pic:nth-child(3){
-  z-index: 2;
-}
-.pic-container:hover .pic:nth-child(1)
-{
-  -webkit-transform: rotate(15deg);
-   transform: rotate(15deg);
-  
-  -webkit-transition: all 0.5s ease;
-   transition: all 0.5s ease;
-}
-
-.pic-container:hover .pic:nth-child(2){
-  -webkit-transform: rotate(7deg);
-   transform: rotate(7deg);
-   
-  -webkit-transition: all 0.10s ease;
-   transition: all 0.10s ease;
-}
-
-.pic-container:hover .pic:nth-child(3){
-  -webkit-transform: rotate(-5deg);
-   transform: rotate(-5deg);
-} */
-
 
 
 @media (max-width: 767px) {
@@ -922,6 +804,25 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+#pricing {
+  width: 100%;
+  position: relative;
+  /* overflow: hidden; */
+  padding: 20px 0 200px 0;
+  margin-bottom: 0px;
+}
+#pricing::before {
+  content: '';
+  position: absolute;
+  right: -100%;
+  top: 20%;
+  width: 250%;
+  height: 200%;
+  z-index: -1;
+  background-color: rgba(179, 155, 200, 0.514);
+  transform: skewY(135deg);
+}
+
 .pricing .row {
   padding-top: 40px;
 }
@@ -1441,7 +1342,26 @@ section {
 @media (max-width: 768px) {
   #footer .copyright, #footer .credits {
     float: none;
-    text-align: center;
+    color: #47536e
     padding: 5px 0;
   }
+
+
+.column {
+  float: left;
+  width: 50%;
 }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#wordclouddesc{
+  color: #fff;
+}
+
+
+
