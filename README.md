@@ -31,7 +31,8 @@ andthatsonperiod.tech
 
 *(Unfortunately, domain.com was not working for us so we could not upload the html files to this domain, please see a video demonstration of our project at the YouTube link below!)*
 
-## ![YouTube Demo](https://youtu.be/c0KhV5yyFrg)
+## YouTube Demo
+https://youtu.be/c0KhV5yyFrg
 
 ## Contributors:
 - Ayushi Ambhore 
