@@ -2,7 +2,9 @@
 
 # And That’s on PERIOD! 
 # - *an interactive educational website that teaches little girls about their bodies*
-
+### Winner of Best Domain Registered with Domain.com - by MLH
+### Winner of Women Empowerment - by GWC@UVA
+### Honorable Mention of Best Overall - by GWC@UVA
 ## Project Description: 
 
 The objective of this project was to gain more experience with front-end development to be able to carry out our dreams of ending the stigma around puberty and periods. We wanted to empower little girls by educating them and providing them with helpful resources that they can use to guide them through this difficult time. 
