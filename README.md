@@ -1,6 +1,6 @@
 #### GirlsHooHack2020
 
-# And That’s on PERIOD! 
+# [And That’s on PERIOD!](https://youtu.be/c0KhV5yyFrg "Watch our demo on YouTube!!") 
 # - *an interactive educational website that teaches little girls about their bodies*
 ### Winner of Best Domain Registered with Domain.com - by MLH
 ### Winner of Women Empowerment - by GWC@UVA
