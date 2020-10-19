@@ -29,7 +29,7 @@ We used a Bootstrap template and went in and modified all of the different compo
 ## Demo link (domain link): 
 andthatsonperiod.tech 
 
-*(unfortunately, domain.com was not working for us so we could not upload the html files to this domain, please use the source code below to see a demo of our project)*
+*(Unfortunately, domain.com was not working for us so we could not upload the html files to this domain, please see a video demonstration of our project at the YouTube link below!)*
 
 ## ![YouTube Demo](https://youtu.be/c0KhV5yyFrg)
 
